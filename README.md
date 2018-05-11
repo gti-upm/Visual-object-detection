@@ -7,7 +7,7 @@ See Mendeley group called [Visual object detection](https://www.mendeley.com/com
 * [Mask-RCNN](https://github.com/matterport/Mask_RCNN)
 
 ### Databases
-* [ImageNet Large Scale Visual Recognition Challenge (ILSVRC)] (http://www.image-net.org/)
+* [ImageNet Large Scale Visual Recognition Challenge (ILSVRC)](http://www.image-net.org/)
 * [PASCAL Visual Object Classes (VOC)](http://host.robots.ox.ac.uk/pascal/VOC/)
 * [Microsoft Common Objects in Context (COCO)](http://cocodataset.org/#home)
 
