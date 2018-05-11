@@ -4,7 +4,10 @@
 See Mendeley group called [Visual object detection](https://www.mendeley.com/community/object-detection-29/) with the label "deep learning".
 
 ### Code
+* [Fast and Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
+* [YOLO](https://pjreddie.com/darknet/yolo/)
 * [Mask-RCNN](https://github.com/matterport/Mask_RCNN)
+* [Detectron](https://github.com/facebookresearch/Detectron)
 
 ### Databases
 * [ImageNet Large Scale Visual Recognition Challenge (ILSVRC)](http://www.image-net.org/)
