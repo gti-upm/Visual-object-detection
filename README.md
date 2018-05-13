@@ -1,8 +1,8 @@
 # Visual-object-detection
 ## Deep learning approaches
 ### Papers 
-For reference papers (well-known papers or remarkable read papers), see Mendeley group called [Visual object detection](https://www.mendeley.com/community/object-detection-29/) with the label "deep learning".
-For potential interesting papers (not read papers), see Mendeley group called [Visual object detection NR](https://www.mendeley.com/community/visual-object-detection-nr) with the label "deep learning".
+* For reference papers (well-known papers or remarkable read papers), see Mendeley group called [Visual object detection](https://www.mendeley.com/community/object-detection-29/) with the label "deep learning".
+* For potential interesting papers (not read papers), see Mendeley group called [Visual object detection NR](https://www.mendeley.com/community/visual-object-detection-nr) with the label "deep learning".
 
 ### Code
 * [Fast and Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
