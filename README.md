@@ -17,6 +17,7 @@
 
 ### Doc
 * [R-CNN for Object Detection](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_wk1_rcnn.pdf)
+* [Joseph Chet Redmon (Yolo's author)](https://pjreddie.com/)
 
 ### Others
 * [Awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
